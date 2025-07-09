@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+facenet-pytorch
+torch
+Pillow 
